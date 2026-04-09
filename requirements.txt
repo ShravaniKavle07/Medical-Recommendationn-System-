@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+sqlalchemy
+python-jose
+pandas
+scikit-learn
+matplotlib
+textblob
+tensorflow
